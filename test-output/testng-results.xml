@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-31T20:55:36 IST" name="Default suite" finished-at="2024-07-31T20:55:54 IST" duration-ms="17833">
+    <groups>
+    </groups>
+    <test started-at="2024-07-31T20:55:36 IST" name="Default test" finished-at="2024-07-31T20:55:54 IST" duration-ms="17833">
+      <class name="tc_repository.ORG_tc_01">
+        <test-method is-config="true" signature="createDbConnection()[pri:0, instance:tc_repository.ORG_tc_01@59505b48]" started-at="2024-07-31T20:55:36 IST" name="createDbConnection" finished-at="2024-07-31T20:55:36 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDbConnection -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:tc_repository.ORG_tc_01@59505b48]" started-at="2024-07-31T20:55:36 IST" name="launchBrowser" finished-at="2024-07-31T20:55:40 IST" duration-ms="3280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="loginOperation()[pri:0, instance:tc_repository.ORG_tc_01@59505b48]" started-at="2024-07-31T20:55:40 IST" name="loginOperation" finished-at="2024-07-31T20:55:42 IST" duration-ms="2521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginOperation -->
+        <test-method signature="org_01()[pri:0, instance:tc_repository.ORG_tc_01@59505b48]" started-at="2024-07-31T20:55:42 IST" name="org_01" finished-at="2024-07-31T20:55:51 IST" duration-ms="9154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- org_01 -->
+        <test-method is-config="true" signature="logoutOperation()[pri:0, instance:tc_repository.ORG_tc_01@59505b48]" started-at="2024-07-31T20:55:51 IST" name="logoutOperation" finished-at="2024-07-31T20:55:53 IST" duration-ms="1436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutOperation -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tc_repository.ORG_tc_01@59505b48]" started-at="2024-07-31T20:55:53 IST" name="closeBrowser" finished-at="2024-07-31T20:55:54 IST" duration-ms="1402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="closeDbConnection()[pri:0, instance:tc_repository.ORG_tc_01@59505b48]" started-at="2024-07-31T20:55:54 IST" name="closeDbConnection" finished-at="2024-07-31T20:55:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDbConnection -->
+      </class> <!-- tc_repository.ORG_tc_01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
